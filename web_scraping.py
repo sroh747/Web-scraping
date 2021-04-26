@@ -1,7 +1,7 @@
 # *********************************************************************
 # Web scraping airfares from an airfare aggregator website
 # using Lambda and a Headless Chrome
-# v1.3
+# v2.0
 # The results are saved in a JSON file in S3 AND in a DynamoDB table
 # *********************************************************************
 import json
